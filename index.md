@@ -12,7 +12,8 @@ from: employee@widgetco
 to: manager@widgetco
 subject: widget manufacturing details?
 body:
-What diameter and thickness should the widget be? Error tolerance on those?
+What diameter and thickness should the widget be?
+Error tolerance on those?
 ```
 
 It is crisp like capn crunch. It says what must be said and nothing more.
