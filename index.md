@@ -18,7 +18,7 @@ Error tolerance on those?
 
 It is crisp like capn crunch. It says what must be said and nothing more.
 
-Need to remind someone of something they forgot without being rude? Try sending the exact same one again with nothing changed.
+Let's end this confusing tradition.
 
 Much appreciated, \
 https://endthesignoff.com
